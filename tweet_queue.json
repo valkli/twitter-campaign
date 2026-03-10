@@ -117,13 +117,13 @@
     "slot": 3,
     "topic": "AI",
     "text": "The skill of 2026 isn't \"coding.\" It's \"orchestrating.\" Can you make Claude talk to Midjourney talk to Zapier? The Architects are the new Developers. #nocode #futureofwork",
-    "status": "scheduled",
+    "status": "posted",
     "scheduled_madrid": "2026-03-09T20:00:00",
     "scheduled_utc": "2026-03-09T19:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-09T06:00:04Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-09T13:31:51Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2030999917762678978"
   },
   {
     "id": 10,
@@ -131,13 +131,13 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "Stop chasing \"more leads.\" Chase \"faster response.\" 78% of deals go to the first responder. AI responds in 4 seconds. Humans respond in 4 hours. Do the math. #speed #winning",
-    "status": "scheduled",
+    "status": "posted",
     "scheduled_madrid": "2026-03-10T08:00:00",
     "scheduled_utc": "2026-03-10T07:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-09T13:27:03Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-09T19:31:23Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2031090408755790210"
   },
   {
     "id": 11,
@@ -145,10 +145,10 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Lifestyle dividend: ROI isn't just money. It's waking up in a Mediterranean climate, eating fresh food, living safely. Spain pays you in cashflow AND life quality. #lifestyle #freedom",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-10T14:00:00",
     "scheduled_utc": "2026-03-10T13:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-09T19:00:19Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
