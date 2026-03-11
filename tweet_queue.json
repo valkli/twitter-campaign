@@ -145,13 +145,13 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Lifestyle dividend: ROI isn't just money. It's waking up in a Mediterranean climate, eating fresh food, living safely. Spain pays you in cashflow AND life quality. #lifestyle #freedom",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-10T14:00:00",
     "scheduled_utc": "2026-03-10T13:00:00Z",
     "pending_since": "2026-03-09T19:00:19Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-10T06:31:31Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2031256519975600380"
   },
   {
     "id": 12,
@@ -159,13 +159,13 @@
     "slot": 3,
     "topic": "AI",
     "text": "ChatGPT → Canva → LinkedIn automation = 30 posts/month designed, written, scheduled. You do it once. Results compound for 90 days. That's LEVERAGE at scale. #content #marketing",
-    "status": "scheduled",
+    "status": "posted",
     "scheduled_madrid": "2026-03-10T20:00:00",
     "scheduled_utc": "2026-03-10T19:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-10T06:00:05Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-10T13:31:22Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2031362185474003053"
   },
   {
     "id": 13,
@@ -173,10 +173,10 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "We built a scraper that finds every new real estate listing in Spain instantly. Then AI contacts the agent. We see deals 48 hours before the market. Technology is an unfair advantage. #proptech #hacking",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-11T08:00:00",
     "scheduled_utc": "2026-03-11T07:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-10T06:00:11Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
@@ -187,10 +187,10 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Valencia vs. Madrid: Madrid gives you status. Valencia gives you ROI. Madrid is peaked. Valencia is ascending. Follow the growth, not the crowd. #investing #tips",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-11T14:00:00",
     "scheduled_utc": "2026-03-11T13:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-10T13:22:25Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
@@ -201,10 +201,10 @@
     "slot": 3,
     "topic": "AI",
     "text": "Learned Zapier in 2 days. Now 10 of my processes run 100% automatically. No more manual work. Just optimization. That's the shift happening in 2026. #automation #efficiency",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-11T20:00:00",
     "scheduled_utc": "2026-03-11T19:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-10T19:00:21Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
