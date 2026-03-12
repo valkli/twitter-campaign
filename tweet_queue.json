@@ -173,13 +173,13 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "We built a scraper that finds every new real estate listing in Spain instantly. Then AI contacts the agent. We see deals 48 hours before the market. Technology is an unfair advantage. #proptech #hacking",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-11T08:00:00",
     "scheduled_utc": "2026-03-11T07:00:00Z",
     "pending_since": "2026-03-10T06:00:11Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-11T06:32:02Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2031619040238571713"
   },
   {
     "id": 14,
@@ -187,13 +187,13 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Valencia vs. Madrid: Madrid gives you status. Valencia gives you ROI. Madrid is peaked. Valencia is ascending. Follow the growth, not the crowd. #investing #tips",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-11T14:00:00",
     "scheduled_utc": "2026-03-11T13:00:00Z",
     "pending_since": "2026-03-10T13:22:25Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-11T13:31:20Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2031724540976402680"
   },
   {
     "id": 15,
@@ -201,13 +201,13 @@
     "slot": 3,
     "topic": "AI",
     "text": "Learned Zapier in 2 days. Now 10 of my processes run 100% automatically. No more manual work. Just optimization. That's the shift happening in 2026. #automation #efficiency",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-11T20:00:00",
     "scheduled_utc": "2026-03-11T19:00:00Z",
     "pending_since": "2026-03-10T19:00:21Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-11T19:31:12Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2031815136743141683"
   },
   {
     "id": 16,
@@ -215,10 +215,10 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "Marketing agencies are dying. \"AI Growth Partners\" are rising. You don't need a retainer for SEO. You need a partner who builds SYSTEMS that print leads forever. #agency #change",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-12T08:00:00",
     "scheduled_utc": "2026-03-12T07:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-11T06:00:09Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
@@ -229,10 +229,10 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Buy Spain, hold 10 years, retire early. That's the play. Markets cycle. You catch the bottom (now), sell the top (2027-28). Generational wealth opportunity. #investing #fire",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-12T14:00:00",
     "scheduled_utc": "2026-03-12T13:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-11T13:19:10Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
@@ -243,10 +243,10 @@
     "slot": 3,
     "topic": "AI",
     "text": "Stop fearing AI will replace you. Fear the person using AI who will replace you. The tool is neutral. The user is the variable. Be the power user. #career #mindset",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-12T20:00:00",
     "scheduled_utc": "2026-03-12T19:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-11T19:00:16Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
