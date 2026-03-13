@@ -215,13 +215,13 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "Marketing agencies are dying. \"AI Growth Partners\" are rising. You don't need a retainer for SEO. You need a partner who builds SYSTEMS that print leads forever. #agency #change",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-12T08:00:00",
     "scheduled_utc": "2026-03-12T07:00:00Z",
     "pending_since": "2026-03-11T06:00:09Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-12T06:31:40Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2031981296277217582"
   },
   {
     "id": 17,
@@ -229,13 +229,13 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Buy Spain, hold 10 years, retire early. That's the play. Markets cycle. You catch the bottom (now), sell the top (2027-28). Generational wealth opportunity. #investing #fire",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-12T14:00:00",
     "scheduled_utc": "2026-03-12T13:00:00Z",
     "pending_since": "2026-03-11T13:19:10Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-12T13:33:59Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2032087599880282369"
   },
   {
     "id": 18,
@@ -243,13 +243,13 @@
     "slot": 3,
     "topic": "AI",
     "text": "Stop fearing AI will replace you. Fear the person using AI who will replace you. The tool is neutral. The user is the variable. Be the power user. #career #mindset",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-12T20:00:00",
     "scheduled_utc": "2026-03-12T19:00:00Z",
     "pending_since": "2026-03-11T19:00:16Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-12T19:31:11Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2032177506577490125"
   },
   {
     "id": 19,
@@ -257,10 +257,10 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "Case study: Real estate agent manually DMs 20 people/day. Gets 1 lead. Our bot DMs 500/day. Gets 25 leads. Cost is same. Who wins the market in 6 months? #realestate #math",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-13T08:00:00",
     "scheduled_utc": "2026-03-13T07:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-12T06:00:05Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
@@ -271,10 +271,10 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Spain's Digital Nomad Visa is bringing high-income tech workers. They need high-quality rentals. They pay premiums. This is the new tenant class you want. #rental #strategy",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-13T14:00:00",
     "scheduled_utc": "2026-03-13T13:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-12T13:27:20Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
@@ -285,10 +285,10 @@
     "slot": 3,
     "topic": "AI",
     "text": "Generated 200 social media posts using AI this month. Value: €8000 (market rate). Cost: €20 (ChatGPT). Margin: 99.75%. That's leverage. #AI #marketing",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-13T20:00:00",
     "scheduled_utc": "2026-03-13T19:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-12T19:00:24Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
