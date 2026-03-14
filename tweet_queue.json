@@ -257,13 +257,13 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "Case study: Real estate agent manually DMs 20 people/day. Gets 1 lead. Our bot DMs 500/day. Gets 25 leads. Cost is same. Who wins the market in 6 months? #realestate #math",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-13T08:00:00",
     "scheduled_utc": "2026-03-13T07:00:00Z",
     "pending_since": "2026-03-12T06:00:05Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-13T06:31:37Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2032343710009004340"
   },
   {
     "id": 20,
@@ -271,13 +271,13 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Spain's Digital Nomad Visa is bringing high-income tech workers. They need high-quality rentals. They pay premiums. This is the new tenant class you want. #rental #strategy",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-13T14:00:00",
     "scheduled_utc": "2026-03-13T13:00:00Z",
     "pending_since": "2026-03-12T13:27:20Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-13T19:37:29Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2032541420519674091"
   },
   {
     "id": 21,
@@ -299,10 +299,10 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "Your lead qualification process takes 30 minutes per prospect. GenAIx does 100 in 60 seconds. You're literally throwing away 99.7% productivity because you haven't switched. #efficiency #waste",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-14T08:00:00",
     "scheduled_utc": "2026-03-14T07:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-13T06:00:07Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
@@ -313,10 +313,10 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "The \"Manana\" culture in Spain is a myth in business. Top circles move FAST. If you think it's slow, you're in the wrong rooms. Upgrade your network. #culture #business",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-14T14:00:00",
     "scheduled_utc": "2026-03-14T13:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-13T19:00:16Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
