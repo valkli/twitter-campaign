@@ -313,13 +313,13 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "The \"Manana\" culture in Spain is a myth in business. Top circles move FAST. If you think it's slow, you're in the wrong rooms. Upgrade your network. #culture #business",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-14T14:00:00",
     "scheduled_utc": "2026-03-14T13:00:00Z",
     "pending_since": "2026-03-13T19:00:16Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-16T06:33:16Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2033431261931323750"
   },
   {
     "id": 24,
@@ -327,13 +327,13 @@
     "slot": 3,
     "topic": "AI",
     "text": "AI doesn't hallucinate. It brainstorms. If you treat it like a search engine, it fails. If you treat it like a creative partner, it's genius. Adjust your expectations. #creativity #llm",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-14T20:00:00",
     "scheduled_utc": "2026-03-14T19:00:00Z",
     "pending_since": "2026-03-14T06:02:08Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-16T13:35:32Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2033537274139279714"
   },
   {
     "id": 25,
@@ -341,13 +341,13 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "Building a list used to cost $1 per lead. With AI scraping + enrichment, it costs $0.01. The cost of data has collapsed. The value of ACTION has skyrocketed. #data #strategy",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-15T08:00:00",
     "scheduled_utc": "2026-03-15T07:00:00Z",
     "pending_since": "2026-03-14T13:21:05Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-16T19:32:00Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2033627243612700958"
   },
   {
     "id": 26,
@@ -425,10 +425,10 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "Your automation stack in 2026 = your competitive moat in 2027. Build NOW while everyone's still sleeping. By then? You'll own your entire market category. #strategy #moat",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-17T08:00:00",
     "scheduled_utc": "2026-03-17T07:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-16T06:01:49Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
@@ -439,10 +439,10 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Seville is undervalued. High speed train to Madrid (2.5h). Huge tourism. Beautiful architecture. Prices still 2018 levels. The catch-up growth is inevitable. #undervalued #gem",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-17T14:00:00",
     "scheduled_utc": "2026-03-17T13:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-16T13:30:44Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
@@ -453,10 +453,10 @@
     "slot": 3,
     "topic": "AI",
     "text": "AI voice agents are crossing the \"uncanny valley.\" They sound human. They pause. They laugh. Customer support is about to change forever. Are you ready? #voiceai #tech",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-17T20:00:00",
     "scheduled_utc": "2026-03-17T19:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-16T19:00:23Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
