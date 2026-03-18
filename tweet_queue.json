@@ -355,13 +355,13 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Look at commercial real estate in Alicante. Retail to residential conversions. High complexity, massive margin. This is where the 20% yields are hiding. #development #cre",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-15T14:00:00",
     "scheduled_utc": "2026-03-15T13:00:00Z",
     "pending_since": "2026-03-14T19:00:30Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-17T06:42:07Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2033794449730331003"
   },
   {
     "id": 27,
@@ -369,13 +369,13 @@
     "slot": 3,
     "topic": "AI",
     "text": "Pro tip: Paste your codebase into Claude. Ask \"Where are the security vulnerabilities?\" It finds 3 critical bugs in 10 seconds. You just saved a $50k audit. #coding #security",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-15T20:00:00",
     "scheduled_utc": "2026-03-15T19:00:00Z",
     "pending_since": "2026-03-15T06:56:31Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-17T13:33:48Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2033899494039826939"
   },
   {
     "id": 28,
@@ -383,13 +383,13 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "Prediction: In 2 years, manual B2B prospecting will be considered \"artisanal\" (and expensive/rare). Automated prospecting will be the standard utility. Adapt now. #future #predictions",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-16T08:00:00",
     "scheduled_utc": "2026-03-16T07:00:00Z",
     "pending_since": "2026-03-15T07:52:00Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-17T19:32:40Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2033989723937489159"
   },
   {
     "id": 29,
@@ -467,10 +467,10 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "BOLD PREDICTION: Companies with sub-3% CAC will DESTROY competitors with 8%+ CAC by 2027. The divergence is NOW. GenAIx automation = sub-3% reality. #economics #cac",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-18T08:00:00",
     "scheduled_utc": "2026-03-18T07:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-17T06:00:24Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
@@ -481,10 +481,10 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Rental arbitrage play: Buy €300k property in Spain, rent at market rate (€1200/month = 4.8% yield). Year 10 = €144k profit + owned asset. Free money. #investing #cashflow",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-18T14:00:00",
     "scheduled_utc": "2026-03-18T13:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-17T13:31:26Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
@@ -495,10 +495,10 @@
     "slot": 3,
     "topic": "AI",
     "text": "Prompt engineering is now a skill worth €100k+. Those who master ChatGPT prompts will build empires. Learning curve = 30 days. ROI = lifetime. #AI #skills",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-18T20:00:00",
     "scheduled_utc": "2026-03-18T19:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-17T19:00:29Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
