@@ -467,13 +467,13 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "BOLD PREDICTION: Companies with sub-3% CAC will DESTROY competitors with 8%+ CAC by 2027. The divergence is NOW. GenAIx automation = sub-3% reality. #economics #cac",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-18T08:00:00",
     "scheduled_utc": "2026-03-18T07:00:00Z",
     "pending_since": "2026-03-17T06:00:24Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-20T06:31:40Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2034880390523949491"
   },
   {
     "id": 35,
@@ -481,13 +481,13 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Rental arbitrage play: Buy €300k property in Spain, rent at market rate (€1200/month = 4.8% yield). Year 10 = €144k profit + owned asset. Free money. #investing #cashflow",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-18T14:00:00",
     "scheduled_utc": "2026-03-18T13:00:00Z",
     "pending_since": "2026-03-17T13:31:26Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-20T13:38:06Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2034987727846777184"
   },
   {
     "id": 36,
@@ -495,13 +495,13 @@
     "slot": 3,
     "topic": "AI",
     "text": "Prompt engineering is now a skill worth €100k+. Those who master ChatGPT prompts will build empires. Learning curve = 30 days. ROI = lifetime. #AI #skills",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-18T20:00:00",
     "scheduled_utc": "2026-03-18T19:00:00Z",
     "pending_since": "2026-03-17T19:00:29Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-20T19:32:20Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2035076853619134787"
   },
   {
     "id": 37,
@@ -593,10 +593,10 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "The best sales rep in the world can handle 50 active conversations. A mediocre AI agent can handle 50,000. Quantity has a quality all its own. #scale #power",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-21T08:00:00",
     "scheduled_utc": "2026-03-21T07:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-20T06:00:08Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
@@ -607,10 +607,10 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Taxes in Spain are high? Myth. Wealth tax has high exemptions in many regions (Madrid, Andalucia). Do your research. Don't let tax fear kill your ROI. #taxes #facts",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-21T14:00:00",
     "scheduled_utc": "2026-03-21T13:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-20T13:29:11Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
@@ -621,10 +621,10 @@
     "slot": 3,
     "topic": "AI",
     "text": "\"I don't have time to learn AI.\" You don't have time NOT to. It's like saying \"I don't have time to learn to read\" in 1500. It's the new literacy. #learning #necessity",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-21T20:00:00",
     "scheduled_utc": "2026-03-21T19:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-20T19:00:23Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
