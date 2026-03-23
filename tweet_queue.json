@@ -551,13 +551,13 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "STAT: 73% of sales leaders say GenAI would double their output. Yet only 21% have implemented it. That's THE GAP. The winners are inside this 21%. Which side are you on? #stats #leadership",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-20T08:00:00",
     "scheduled_utc": "2026-03-20T07:00:00Z",
     "pending_since": "2026-03-18T19:00:31Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-22T06:32:09Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2035605306844012564"
   },
   {
     "id": 41,
@@ -565,13 +565,13 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Renovating in Spain: It WILL cost 20% more and take 2 months longer than you think. Factor that margin of safety in. If the deal still works, buy it. #construction #reality",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-20T14:00:00",
     "scheduled_utc": "2026-03-20T13:00:00Z",
     "pending_since": "2026-03-19T06:00:18Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-22T13:35:36Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2035711875711746409"
   },
   {
     "id": 42,
@@ -579,13 +579,13 @@
     "slot": 3,
     "topic": "AI",
     "text": "Stop consuming content. Start generating it. AI lowers the barrier to creation. If you have expertise, you have no excuse not to share it at scale. #creator #economy",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-20T20:00:00",
     "scheduled_utc": "2026-03-20T19:00:00Z",
     "pending_since": "2026-03-19T19:00:38Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-22T19:31:29Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2035801458164072915"
   },
   {
     "id": 43,
@@ -677,10 +677,10 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "Email deliverability is the new SEO. If you're landing in spam, you don't exist. We use AI to warm up domains automatically. Technical excellence = Sales success. #deliverability #tech",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-23T08:00:00",
     "scheduled_utc": "2026-03-23T07:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-22T06:00:08Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
@@ -691,10 +691,10 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Costa del Sol: 300 days of sunshine, affordable property, expat community. Buy €250k, rent €1500/month. Tourism keeps income stable. Reliable passive stream. #realestate #lifestyle",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-23T14:00:00",
     "scheduled_utc": "2026-03-23T13:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-22T13:26:04Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
@@ -705,10 +705,10 @@
     "slot": 3,
     "topic": "AI",
     "text": "Learning to prompt-engineer ChatGPT is like learning Excel in 2000. Game-changing skill. Those who skip it will be shocked by who's ahead in 2027. #AI #skills",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-23T20:00:00",
     "scheduled_utc": "2026-03-23T19:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-22T19:00:07Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
