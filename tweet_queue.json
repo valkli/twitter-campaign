@@ -593,13 +593,13 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "The best sales rep in the world can handle 50 active conversations. A mediocre AI agent can handle 50,000. Quantity has a quality all its own. #scale #power",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-21T08:00:00",
     "scheduled_utc": "2026-03-21T07:00:00Z",
     "pending_since": "2026-03-20T06:00:08Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-23T06:32:04Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2035967584940515355"
   },
   {
     "id": 44,
@@ -607,13 +607,13 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Taxes in Spain are high? Myth. Wealth tax has high exemptions in many regions (Madrid, Andalucia). Do your research. Don't let tax fear kill your ROI. #taxes #facts",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-21T14:00:00",
     "scheduled_utc": "2026-03-21T13:00:00Z",
     "pending_since": "2026-03-20T13:29:11Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-23T14:10:09Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2036082904577569165"
   },
   {
     "id": 45,
@@ -621,13 +621,14 @@
     "slot": 3,
     "topic": "AI",
     "text": "\"I don't have time to learn AI.\" You don't have time NOT to. It's like saying \"I don't have time to learn to read\" in 1500. It's the new literacy. #learning #necessity",
-    "status": "pending",
+    "status": "skipped",
     "scheduled_madrid": "2026-03-21T20:00:00",
     "scheduled_utc": "2026-03-21T19:00:00Z",
     "pending_since": "2026-03-20T19:00:23Z",
     "approved_text": null,
     "posted_at": null,
-    "tweet_url": null
+    "tweet_url": null,
+    "skip_reason": "stale_pending_cleanup_2026-03-23"
   },
   {
     "id": 46,
@@ -635,13 +636,14 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "Inbound is great. Outbound is control. You can turn the dial up or down. Automated outbound gives you a \"Revenue Thermostat.\" Control your destiny. #revenue #control",
-    "status": "pending",
+    "status": "skipped",
     "scheduled_madrid": "2026-03-22T08:00:00",
     "scheduled_utc": "2026-03-22T07:00:00Z",
     "pending_since": "2026-03-21T06:00:09Z",
     "approved_text": null,
     "posted_at": null,
-    "tweet_url": null
+    "tweet_url": null,
+    "skip_reason": "stale_pending_cleanup_2026-03-23"
   },
   {
     "id": 47,
@@ -649,13 +651,14 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Student housing in Valencia: 2 universities, thousands of international students. Zero vacancy. Parents pay the rent (guaranteed). Recession-proof asset. #niche #investing",
-    "status": "pending",
+    "status": "skipped",
     "scheduled_madrid": "2026-03-22T14:00:00",
     "scheduled_utc": "2026-03-22T13:00:00Z",
     "pending_since": "2026-03-21T13:19:00Z",
     "approved_text": null,
     "posted_at": null,
-    "tweet_url": null
+    "tweet_url": null,
+    "skip_reason": "stale_pending_cleanup_2026-03-23"
   },
   {
     "id": 48,
@@ -663,13 +666,14 @@
     "slot": 3,
     "topic": "AI",
     "text": "Analyze your calendar with AI. \"Where did I waste time last week?\" It categorizes meetings. Shows you the black holes. You reclaim 5 hours/week. #timemanagement #audit",
-    "status": "pending",
+    "status": "skipped",
     "scheduled_madrid": "2026-03-22T20:00:00",
     "scheduled_utc": "2026-03-22T19:00:00Z",
     "pending_since": "2026-03-21T19:00:26Z",
     "approved_text": null,
     "posted_at": null,
-    "tweet_url": null
+    "tweet_url": null,
+    "skip_reason": "stale_pending_cleanup_2026-03-23"
   },
   {
     "id": 49,
@@ -677,13 +681,14 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "Email deliverability is the new SEO. If you're landing in spam, you don't exist. We use AI to warm up domains automatically. Technical excellence = Sales success. #deliverability #tech",
-    "status": "pending",
+    "status": "skipped",
     "scheduled_madrid": "2026-03-23T08:00:00",
     "scheduled_utc": "2026-03-23T07:00:00Z",
     "pending_since": "2026-03-22T06:00:08Z",
     "approved_text": null,
     "posted_at": null,
-    "tweet_url": null
+    "tweet_url": null,
+    "skip_reason": "stale_pending_cleanup_2026-03-23"
   },
   {
     "id": 50,
@@ -691,13 +696,14 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Costa del Sol: 300 days of sunshine, affordable property, expat community. Buy €250k, rent €1500/month. Tourism keeps income stable. Reliable passive stream. #realestate #lifestyle",
-    "status": "pending",
+    "status": "skipped",
     "scheduled_madrid": "2026-03-23T14:00:00",
     "scheduled_utc": "2026-03-23T13:00:00Z",
     "pending_since": "2026-03-22T13:26:04Z",
     "approved_text": null,
     "posted_at": null,
-    "tweet_url": null
+    "tweet_url": null,
+    "skip_reason": "stale_pending_cleanup_2026-03-23"
   },
   {
     "id": 51,
@@ -705,13 +711,14 @@
     "slot": 3,
     "topic": "AI",
     "text": "Learning to prompt-engineer ChatGPT is like learning Excel in 2000. Game-changing skill. Those who skip it will be shocked by who's ahead in 2027. #AI #skills",
-    "status": "pending",
+    "status": "skipped",
     "scheduled_madrid": "2026-03-23T20:00:00",
     "scheduled_utc": "2026-03-23T19:00:00Z",
     "pending_since": "2026-03-22T19:00:07Z",
     "approved_text": null,
     "posted_at": null,
-    "tweet_url": null
+    "tweet_url": null,
+    "skip_reason": "stale_pending_cleanup_2026-03-23"
   },
   {
     "id": 52,
@@ -719,13 +726,14 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "Customer service tickets: Average resolution time 4 hours. AI chatbot handles 70% in 5 minutes. Remaining 30% go to humans with full context. Same team, 10x efficiency. #automation #cs",
-    "status": "scheduled",
+    "status": "skipped",
     "scheduled_madrid": "2026-03-24T08:00:00",
     "scheduled_utc": "2026-03-24T07:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-23T06:00:15Z",
     "approved_text": null,
     "posted_at": null,
-    "tweet_url": null
+    "tweet_url": null,
+    "skip_reason": "stale_pending_cleanup_2026-03-23"
   },
   {
     "id": 53,
@@ -733,13 +741,14 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Buying land in Spain: High risk, high reward. Zoning laws change. If you navigate it right? 300% returns developing villas. If wrong? Zero. Know the game. #land #development",
-    "status": "scheduled",
+    "status": "skipped",
     "scheduled_madrid": "2026-03-24T14:00:00",
     "scheduled_utc": "2026-03-24T13:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-23T14:10:51Z",
     "approved_text": null,
     "posted_at": null,
-    "tweet_url": null
+    "tweet_url": null,
+    "skip_reason": "stale_pending_cleanup_2026-03-23"
   },
   {
     "id": 54,

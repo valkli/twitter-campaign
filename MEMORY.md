@@ -1,17 +1,17 @@
 # Twitter Campaign — Project Memory
 
-**Статус:** АКТИВНА — 10 опубликовано, 1 pending, 64 scheduled
-**Последнее обновление:** 2026-03-10
+**Статус:** АКТИВНА — 44 posted, 9 skipped (stale), 22 scheduled
+**Последнее обновление:** 2026-03-23
 
 ---
 
 ## Текущее состояние очереди
-- **posted:** 10 (ids 1–10, Days 6–9)
-- **pending:** 1 (id=11, Day 9 slot 2, SPAIN — завис, нужно опубликовать)
-- **scheduled:** 64 (Days 10–30)
+- **posted:** 44 (Days 6–19)
+- **skipped:** 9 (Days 20-23, застряли в pending из-за бага message tool)
+- **scheduled:** 22 (Days 23-30, следующий: id=54, Day 23 slot 3 AI)
 - Файл очереди: `tweet_queue.json`
 
-## Архитектура системы
+## Архитектура системы (v2 — 23.03.2026)
 
 ### Постинг
 - **bird** — ТОЛЬКО для чтения (whoami, user-tweets, home, search)
@@ -19,15 +19,26 @@
 - **Постинг ВСЕГДА через browser** (profile=openclaw):
   1. Открыть https://x.com/compose/post
   2. Ждать 2.5 сек
-  3. `document.execCommand('insertText', false, TEXT)` в textarea `[data-testid="tweetTextarea_0"]`
+  3. `document.execCommand('insertText', false, TEXT)` в textarea
   4. Ждать 1 сек
-  5. `document.querySelector('[data-testid="tweetButton"]').click()`
+  5. Нажать кнопку Post
   6. Ждать 3 сек
 
-### Cron jobs (6 штук)
-| ID | Имя | Расписание |
-|---|---|---|
-| 6fcc295f | twitter-preview-morning | 08:00 Madrid (cron `0 7 * * *`) |
+### Динамические кроны (v2 — 2 вместо 6)
+**Архитектура:** 2 динамических `at` крона которые пересоздают друг друга.
+В любой момент времени активен **только 1 крон**.
+
+```
+twitter-preview (at: slot - 10мин) → шлёт на согласование → создаёт twitter-publish
+twitter-publish (at: slot) → публикует → создаёт twitter-preview для следующего слота
+```
+
+- **Согласование:** 10 минут (было 30)
+- **Слоты:** 08:00, 14:00, 20:00 Madrid (07:00, 13:00, 19:00 UTC)
+- **Delivery:** announce (НЕ message tool — тот падает в изолированных сессиях)
+- **deleteAfterRun:** true для обоих
+- **Модель:** Sonnet (дешевле и быстрее для рутинной работы)
+- **Текущий активный:** twitter-preview на 2026-03-24T18:50:00Z (завтра 19:50 Madrid)
 | a6e61636 | twitter-autopost-morning | 08:30 Madrid (cron `30 7 * * *`) |
 | 222b1032 | twitter-preview-afternoon | 14:00 Madrid (cron `0 14 * * *`) |
 | 7d995199 | twitter-autopost-afternoon | 14:30 Madrid (cron `30 14 * * *`) |

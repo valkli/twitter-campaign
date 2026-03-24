@@ -174,7 +174,7 @@ def cmd_post(tweet_id=None):
                 if t["pending_since"]:
                     since = datetime.fromisoformat(t["pending_since"].replace("Z", "+00:00"))
                     elapsed = (now_utc() - since).total_seconds()
-                    if elapsed >= 1800:  # 30 минут
+                    if elapsed >= 600:  # 10 минут
                         targets.append(t)
                         break
     
@@ -215,6 +215,18 @@ def cmd_next_preview():
     save_queue(queue)
     print(json.dumps(t, ensure_ascii=False))
 
+def cmd_peek_next():
+    """Показывает следующий scheduled твит БЕЗ изменения статуса"""
+    queue = load_queue()
+    scheduled = [t for t in queue if t["status"] == "scheduled"]
+    if not scheduled:
+        print("NO_MORE")
+        return
+    t = min(scheduled, key=lambda x: x["scheduled_utc"])
+    print(json.dumps({"id": t["id"], "day": t["day"], "slot": t["slot"], 
+                       "topic": t["topic"], "scheduled_utc": t["scheduled_utc"],
+                       "text": t["text"][:80]}, ensure_ascii=False))
+
 def cmd_status():
     queue = load_queue()
     by_status = {}
@@ -252,6 +264,8 @@ if __name__ == "__main__":
         cmd_post(args[1] if len(args) > 1 else None)
     elif cmd == "next-preview":
         cmd_next_preview()
+    elif cmd == "peek-next":
+        cmd_peek_next()
     elif cmd == "status":
         cmd_status()
     elif cmd == "mark-posted" and len(args) >= 2:
