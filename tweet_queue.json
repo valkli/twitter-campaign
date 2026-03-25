@@ -756,13 +756,13 @@
     "slot": 3,
     "topic": "AI",
     "text": "Translate your content into 10 languages instantly with AI. One post → Global audience. Why limit your ideas to one language? The world is open. #global #reach",
-    "status": "scheduled",
+    "status": "posted",
     "scheduled_madrid": "2026-03-24T20:00:00",
     "scheduled_utc": "2026-03-24T19:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-24T18:50:05Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-24T19:01:51Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2036518788208689284"
   },
   {
     "id": 55,
@@ -770,10 +770,10 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "The \"Follow-Up\" is where money is made. Humans give up after 2 tries. Bots follow up 7 times over 3 months, politely, consistently. They catch the \"Yes\" that humans miss. #persistence #sales",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-25T08:00:00",
     "scheduled_utc": "2026-03-25T07:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-24T18:50:08Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
@@ -784,10 +784,10 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Bank repossessions in Spain: They still exist. 30-40% below market value. But you need cash and speed. We track these listings daily. #deals #bankowned",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-25T14:00:00",
     "scheduled_utc": "2026-03-25T13:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-24T19:02:43Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
