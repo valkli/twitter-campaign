@@ -770,13 +770,13 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "The \"Follow-Up\" is where money is made. Humans give up after 2 tries. Bots follow up 7 times over 3 months, politely, consistently. They catch the \"Yes\" that humans miss. #persistence #sales",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-25T08:00:00",
     "scheduled_utc": "2026-03-25T07:00:00Z",
     "pending_since": "2026-03-24T18:50:08Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-03-31T19:21:10Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2039060256802676926"
   },
   {
     "id": 56,
@@ -798,10 +798,10 @@
     "slot": 3,
     "topic": "AI",
     "text": "AI for negotiation: \"I received this offer. How should I counter to get +10%?\" It writes the script. Uses psychological principles. You send. You win. #negotiation #money",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-25T20:00:00",
     "scheduled_utc": "2026-03-25T19:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-03-31T19:21:18Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
