@@ -784,13 +784,13 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Bank repossessions in Spain: They still exist. 30-40% below market value. But you need cash and speed. We track these listings daily. #deals #bankowned",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-25T14:00:00",
     "scheduled_utc": "2026-03-25T13:00:00Z",
     "pending_since": "2026-03-24T19:02:43Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-04-01T07:35:09Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2039245056402457043"
   },
   {
     "id": 57,
@@ -798,13 +798,13 @@
     "slot": 3,
     "topic": "AI",
     "text": "AI for negotiation: \"I received this offer. How should I counter to get +10%?\" It writes the script. Uses psychological principles. You send. You win. #negotiation #money",
-    "status": "pending",
+    "status": "posted",
     "scheduled_madrid": "2026-03-25T20:00:00",
     "scheduled_utc": "2026-03-25T19:00:00Z",
     "pending_since": "2026-03-31T19:21:18Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-04-01T08:44:53Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2039262615168311361"
   },
   {
     "id": 58,
@@ -812,13 +812,13 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "Invoicing automated: Sent 5 minutes after client onboarding. 92% paid within 7 days vs 45% with manual reminder. Better cash flow = better business. Automate faster. #leadgen #cashflow",
-    "status": "scheduled",
+    "status": "posted",
     "scheduled_madrid": "2026-03-26T08:00:00",
     "scheduled_utc": "2026-03-26T07:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-04-01T08:44:57Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-04-01T12:06:38Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2039313388723929089"
   },
   {
     "id": 59,
@@ -826,13 +826,13 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Spain is the Florida of Europe. Retirees + Sun + Low Cost of Living. Demographics guarantee demand for the next 20 years. Bet on demographics. #macro #trends",
-    "status": "scheduled",
+    "status": "posted",
     "scheduled_madrid": "2026-03-26T14:00:00",
     "scheduled_utc": "2026-03-26T13:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-04-01T12:06:42Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-04-01T12:30:03Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2039319264612470890"
   },
   {
     "id": 60,
@@ -840,13 +840,13 @@
     "slot": 3,
     "topic": "AI",
     "text": "ChatGPT as your accountability partner: \"Here's my goal + what I did today.\" It tracks. Reminds. Coaches. Motivates. 90 days of this = TRANSFORMATION. Discipline is AUTOMATED. #growth #habits",
-    "status": "scheduled",
+    "status": "posted",
     "scheduled_madrid": "2026-03-26T20:00:00",
     "scheduled_utc": "2026-03-26T19:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-04-01T12:30:10Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-04-01T18:03:14Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2039403120359333956"
   },
   {
     "id": 61,
@@ -854,13 +854,13 @@
     "slot": 1,
     "topic": "LEADGEN",
     "text": "Marketing attribution: Which ad brought the whale client? AI tracks the entire journey. You stop spending on what feels good and spend on what MAKES MONEY. #data #attribution",
-    "status": "scheduled",
+    "status": "posted",
     "scheduled_madrid": "2026-03-27T08:00:00",
     "scheduled_utc": "2026-03-27T07:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-04-01T18:03:18Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-04-01T18:06:28Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2039403890060276105"
   },
   {
     "id": 62,
@@ -868,13 +868,13 @@
     "slot": 2,
     "topic": "SPAIN",
     "text": "Barcelona outskirts: Prices 50% of city center. Train to center 20 mins. Families moving out for space. That's the appreciation corridor. Buy the ripple effect. #strategy #location",
-    "status": "scheduled",
+    "status": "posted",
     "scheduled_madrid": "2026-03-27T14:00:00",
     "scheduled_utc": "2026-03-27T13:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-04-01T18:06:31Z",
     "approved_text": null,
-    "posted_at": null,
-    "tweet_url": null
+    "posted_at": "2026-04-01T18:10:59Z",
+    "tweet_url": "https://x.com/KlincovValery/status/2039404993904591146"
   },
   {
     "id": 63,
@@ -882,10 +882,10 @@
     "slot": 3,
     "topic": "AI",
     "text": "Vector databases: The brain of your AI. It remembers everything your company has ever done. New employees query it. Instant onboarding. Institutional knowledge preserved. #tech #database",
-    "status": "scheduled",
+    "status": "pending",
     "scheduled_madrid": "2026-03-27T20:00:00",
     "scheduled_utc": "2026-03-27T19:00:00Z",
-    "pending_since": null,
+    "pending_since": "2026-04-01T18:11:02Z",
     "approved_text": null,
     "posted_at": null,
     "tweet_url": null
